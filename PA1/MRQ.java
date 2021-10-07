@@ -46,7 +46,7 @@ public class MRQ extends Question implements MarkInterface {
     }
 
     /**
-     * 一个简单的排序，时间复杂度O(n^2)，需要更低的自己提供其他排序，快排之类的，从小到大
+     * 一个简单的排序，时间复杂度O(n^2)
      * @param ans
      * @return
      */
@@ -64,7 +64,7 @@ public class MRQ extends Question implements MarkInterface {
     }
 
     /**
-     * 一个简单的排序，时间复杂度O(n^2)，需要更低的自己提供其他排序，快排之类的, 从大到小
+     * 一个简单的排序，时间复杂度O(n^2)
      * @param ans
      * @return
      */
